@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="fda79954-f431-405c-8814-cb6d294838ca" 
+        solutionId="fda79954-f431-405c-8814-cb6d294838ca" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="PeoplePicker"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="3eb5585e-0acc-49ba-9949-9182820e1ffd" />
+  </features>
+</package>
